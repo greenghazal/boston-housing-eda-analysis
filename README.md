@@ -1,2 +1,2 @@
 # boston-housing-eda-analysis
-Exploratory data analysis, outlier treatment, normality testing, and non-parametric statistical analysis on the Boston Housing dataset using Python.
+This project performs an in-depth exploratory data analysis on the Boston Housing dataset, including correlation analysis, outlier detection using IQR and Z-score methods, and normality testing (Shapiro–Wilk). It applies log and Box-Cox transformations to handle skewed features and uses Mann-Whitney U tests to compare key housing variables across different population groups. The analysis provides insights into relationships between housing prices, pollution, school quality, and demographic factors.
